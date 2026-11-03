@@ -1,8 +1,8 @@
 My name is sol and i'm student of YMK highschool in Wonju, Korea.
 
-🧠 Brain & Neuroscience:** Passionate about brain neural network data analysis and cognitive science.
-🦠 Microbiology:** Learning to build microbiome data pipelines and analysis workflows.
-🩺 Medical IT:** Aiming to develop healthcare solutions that combine medical data with AI.
+🧠 Brain & Neuroscience: Passionate about brain neural network data analysis and cognitive science.
+🦠 Microbiology: Learning to build microbiome data pipelines and analysis workflows.
+🩺 Medical IT: Aiming to develop healthcare solutions that combine medical data with AI.
 
 e-mail: youksol6@gmail.com
 
